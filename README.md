@@ -15,3 +15,9 @@ each time you guess a code, you get a feedback, contains 4 digits (out of 012)
 number of 2's means how many digits out of your guess code you guessed excatly.
 number of 1's means how many digits out of your guess code you guessed the digits right, but not the location.
 number of 0's means how many digits out of your guess code you guessed wrong - not apears at all at the secret code.
+
+# what are the next steps
+error handling
+UI
+self-solver ai
+and many mre to go...
